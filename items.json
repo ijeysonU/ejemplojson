@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "itemid": "01",
+      "item": "Samsung S21",
+      "precioitem":"300",
+      "img":"https://raw.githubusercontent.com/ijeysonU/ejemplojson_bd/main/s21.jpg"
+    },
+    {
+      "itemid": "0",
+      "item": "Iphone 11 pro",
+      "precioitem":"500",
+      "img":"https://raw.githubusercontent.com/ijeysonU/ejemplojson_bd/main/iphone%2011.png"
+    },
+    {
+      "itemid": "01",
+      "item": "Poco x3 PRO",
+      "precioitem":"450",
+      "img":"https://raw.githubusercontent.com/ijeysonU/ejemplojson_bd/main/Poco%20x3.png"
+    }
+  ]
+}
